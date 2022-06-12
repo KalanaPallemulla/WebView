@@ -4,7 +4,7 @@ import { WebView } from "react-native-webview";
 const Web = () => {
   return (
     <>
-      <WebView source={{ uri: "https://www.google.com" }} />
+      <WebView source={{ uri: "https://forms.gle/ZAkL4NFw4axomXub9" }} />
     </>
   );
 };
